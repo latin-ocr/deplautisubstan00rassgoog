@@ -1,0 +1,82 @@
+De Plauti substantivis. ’ 623
+
+25 fraudatio 1 ’ (fraudulentia) 1
+frustratio 2 frustratus 1
+grates 7 gratia
+imperata NP. 1 imperium
+impudentia 3 impudicitia 2
+
+30 inaniae NP. 1 ΙΙ inanimenta NP. 1 ΙΙ inanitas 1
+indicatio 1 indicium 9
+iniuria Ο iniustitia 1
+inlecebra 5 inlectus 1
+
+. labea 1 ΙΙ labium 1 ΙΙ labellum 9
+
+35 *lamenta NP. 1 lamentatio 1
+legirupa 4 legirupio 1
+limen 9 limes 2
+lubentia 2 lubido 14
+lustra 2 “ lustrum 4
+
+40 maeror ΙΙ maestitia 1 ΙΙ maestitudo 1 ··
+malefactum 1 2 maleficium 2
+malignitas 1 ΙΙ malitia ΙΙ malivolentia 1
+mammicula 1 mammilla 1
+medicamentum 1 medicina 7
+
+45 melliculum 2 mellilla 1
+mercatura 3 mercatus 7
+minaciae 3 minatio 1
+nares 1 nasum 12
+obsequentia 1 obsequium 1
+
+50 obsidium 3 obsidio 3
+olea 1 oliva 1
+oleum 7 olivum 3
+opulentia 3 opulentitas 1
+ornamentum ornatus
+
+55 pactio 1 paetum 1
+palpatio 1 palpum 3
+
+partio 1 ΙΙ partitudo 2 ΙΙ partus 2
+
+pauperies 4
+
+paupertas 10
+
+ped-u 5 ΙΙ pecus (n) 1 ΙΙ pecus (f.) 4
+
+60 peculium 13
+polluctum 1
+praedator 1
+prostibilis 1
+pudor 10
+
+65 pulmentum 5
+
+pulsatio 1
+querella 2
+
+ramentum (n.) 1
+
+rapacida 1
+70 responsio 1
+
+pecunia
+
+. polluctura 1
+
+praedo
+prostibulum 2
+
+pudicitia 8
+pulpamentum 6
+
+pultatio 1
+querimonia 4
+ramenta (f.) 2
+raptor 4
+responsum 1
+
